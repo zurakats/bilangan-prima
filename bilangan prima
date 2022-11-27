@@ -1,0 +1,10 @@
+# bikin bilangan prima dengan input
+
+	a = int(input("masukkan angka : "))
+
+	if (a % 2 and a % 3 and a % 5 and a % 7 and a % 11) != 0:
+			print("bilangan prima!")
+	elif (a == 2 or a == 3 or a == 5 or a == 7 or a) == 11:
+			print("bilangan prima!")
+	else:
+			print("bukan bilangan prima!")
