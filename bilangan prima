@@ -8,3 +8,4 @@
 			print("bilangan prima!")
 	else:
 			print("bukan bilangan prima!")
+a
